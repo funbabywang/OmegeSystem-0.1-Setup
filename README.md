@@ -8,7 +8,7 @@ Omege System 0.1 是一个像 Microsoft Disk Operating System 的操作系统，
 # 硬件要求
 此操作系统硬件要求极低，需要配备 1MB RAM，储存空间需要 10MB 左右，CPU 需要 1MHz，显示卡随便一个就行
 # 关于此代码
-此代码由 2024/11/17 编写，2026/02/01 由 Lucas 在 GitHub 公开发布源代码
+此代码由 2024/11/17 Lucas 编写，2026/02/01 由 Lucas 在 GitHub 公开发布源代码
 此代码最后更新：2025/11/14，最后更改 Bug：2025/9/27，最后发布：2025/11/14
 # 编译
 可使用 Netwide Assembler(NASM) 编译，不可使用 MASM（ml.exe），因为 NASM 与 MASM 语法有差异。
