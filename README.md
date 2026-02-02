@@ -14,6 +14,6 @@ Omege System 0.1 是一个像 Microsoft Disk Operating System 的操作系统，
 可使用 Netwide Assembler(NASM) 编译，不可使用 MASM（ml.exe），因为 NASM 与 MASM 语法有差异。
 NASM 下载：https://www.nasm.us/pub/nasm/releasebuilds/3.01rc9/win64/nasm-3.01rc9-installer-x64.exe （NASM 3.01RC9），将 NASM 安装到 H:\Netwide Assembler，没有 H 盘的可以把脚本里的NASM Path改一下
 # Boot Manager 负责
-运行 BUILD.BAT 后会生成编译后的文件，其中安装程序由 INSTALL.COM 负责，Boot Manager 由 BOOT.BIN 负责，内核则由 KERNEL.COM 与 KERNEL.BIN 负责
+运行 BUILD.BAT 后会生成编译后的文件，其中安装程序由 INSTALL.COM 负责，Boot Manager 由 BOOT.BIN 负责，内核则由 KERNEL.COM 负责
 
 Copyright (c) 2023-2024 Deep Learning Corp.
